@@ -25,7 +25,7 @@
 
 <h2 align="center">📫 Contact 📫</h2>
 <div align="center">
-  <a href="https://velog.io/@leehan" style="text-decoration:none;">
+  <a href="https://velog.io/@leehan" style="text-decoration:none !important;">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:jaehw.me@gmail.com" style="text-decoration:none;">
