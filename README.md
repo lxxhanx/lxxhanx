@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none !important;
-  }
-</style>
-
 <p align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Han's%20GitHub!&fontSize=90" alt="Header"/>
 </p>
@@ -31,7 +25,7 @@
 
 <h2 align="center">📫 Contact 📫</h2>
 <div align="center">
-  <a href="https://velog.io/@leehan" style="text-decoration:none !important;">
+  <a href="https://velog.io/@leehan" style="text-decoration-line:none !important;">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:jaehw.me@gmail.com" style="text-decoration:none;">
