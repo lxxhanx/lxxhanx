@@ -33,7 +33,7 @@
   </a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lxxhanx)](https://solved.ac/lxxhanx/)
 
 <!--
 <p align=center>
