@@ -34,8 +34,14 @@
 </div>
 -->
 
-## ✨ Tech Stack ✨
+### ✨ Tech Stack ✨
 !["python badge"](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠 Tools 🛠
+!["git"](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+!["github"]([https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white))
+!["notion"](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+!["slack"](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lxxhanx)](https://solved.ac/lxxhanx/)
 
