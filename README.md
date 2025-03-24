@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Han's%20GitHub!&fontSize=90" alt="Header"/>
 </p>
 
-<!--내용 부분-->
+<!--내용 부분
 <h2 align="center">✨ Tech Stack ✨</h2>
 
 <div align="center">
@@ -32,6 +32,10 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+-->
+
+## ✨ Tech Stack ✨
+["Han's Github!"](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lxxhanx)](https://solved.ac/lxxhanx/)
 
