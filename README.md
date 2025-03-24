@@ -52,6 +52,8 @@
 [![Gamil](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehw.me@gmail.com)
 
 ### 🚀 ETC 🚀
+![Han's hit-counter](https://github.com/lxxhanx/hit-counter)
+![Han's git-status](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxhanx&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lxxhanx)](https://solved.ac/lxxhanx/)
 
 <!--
