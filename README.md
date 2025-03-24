@@ -33,6 +33,8 @@
   </a>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+
 <!--
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=lxxhanx&theme=radical" alt="Han's GitHub stats"/>
