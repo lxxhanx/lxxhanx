@@ -36,6 +36,8 @@
 </div>
 -->
 
+![Han's Github!](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Han's%20GitHub!&fontSize=90)
+
 ### ✨ Tech Stack ✨
 !["PythonBadge"](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
