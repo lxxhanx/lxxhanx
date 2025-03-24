@@ -35,7 +35,7 @@
 -->
 
 ## ✨ Tech Stack ✨
-[!["python badge"](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
+!["python badge"](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lxxhanx)](https://solved.ac/lxxhanx/)
 
